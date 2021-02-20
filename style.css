@@ -1,9 +1,10 @@
-body{
+body {
     text-align: center;
-    background-color:azure;
+    background-color: azure;
 }
+
 #welcome {
-    color:crimson;
+    color: crimson;
     bottom: 0;
     display: table;
     width: 100%;
@@ -11,7 +12,8 @@ body{
     z-index: 9;
 }
 
-#campus , #SOM{
-    
+#campus,
+#SOM {
+
     background-color: azure;
 }
